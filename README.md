@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm [Josip](https://www.linkedin.com/in/josip-buli%C4%87-8121612bb/)
 
 <!--
 **BuleWu/BuleWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
