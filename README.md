@@ -9,6 +9,8 @@
 
 <hr>
 
+I get things moving.
+
 <h3 align="center">My tech stack</h3>
 <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
