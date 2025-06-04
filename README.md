@@ -9,7 +9,7 @@
 
 <hr>
 
-I get things moving.
+I get things moving
 
 <h3 align="center">My tech stack</h3>
 <p align="center">
